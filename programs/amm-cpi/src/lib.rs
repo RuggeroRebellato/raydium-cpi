@@ -30,7 +30,7 @@ pub mod openbook_program_id {
 }
 
 #[cfg(feature = "devnet")]
-anchor_lang::declare_id!("HWy1jotHpo6UqeQxx49dpYYdQB8wj9Qk9MdxwjLvDHB8");
+anchor_lang::declare_id!("7EywET5hziqbq5Uk34J2XZGn2a7m7n6PsSHAWWyrZ8nR");
 #[cfg(not(feature = "devnet"))]
 anchor_lang::declare_id!("675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8");
 
